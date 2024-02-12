@@ -1,4 +1,4 @@
-# Powerful License
+# MOHAMMED License
 
 Copyright © 2024 Mohammed. All rights reserved.
 
