@@ -1,30 +1,51 @@
-# MOHAMMED License
+## Mohammed License
 
-Copyright © 2024 Mohammed. All rights reserved.
+© 2024 Mohammed. All rights reserved.
 
 Unauthorized copying, redistribution, forking, or cloning of the content from this project and other associated materials is strictly prohibited and will not be tolerated.
 
-## Protected Content
+### Protected Content
 
-### 1. Source Code:
-   - The source code, including but not limited to HTML, CSS, JavaScript, Python, Ruby, Java, C++, and other programming languages used to create the project's functionality, is copyrighted and cannot be copied, distributed, or modified without permission.
+1. **Source Code**:
 
-### 2. Images, Videos, and Multimedia Files:
-   - All visual and audio content associated with the project, including images, videos, GIFs, audio clips, icons, and other multimedia files, is copyrighted and cannot be copied, distributed, or modified without permission.
+   The source code, including but not limited to HTML, CSS, JavaScript, Python, Ruby, Java, C++, and other programming languages used to create the project's functionality, is copyrighted and cannot be copied, distributed, or modified without explicit permission. Any attempt to extract or replicate the source code, whether manually or through automated means, will be met with swift legal action to enforce intellectual property rights.
 
-### 3. Text Content:
-   - All original text content, including documentation, comments, README files, user manuals, guides, and other written materials, is copyrighted and cannot be copied, distributed, or modified without permission.
+2. **Images, Videos, and Multimedia Files**:
 
-### 4. Design Elements:
-   - The overall design and visual elements of the project, including layout, color scheme, typography, graphical assets, logos, and branding materials, are copyrighted and cannot be copied or imitated without permission.
+   All visual and audio content associated with the project, including images, videos, GIFs, audio clips, icons, and other multimedia files, is copyrighted and protected by international copyright laws. Any unauthorized use, reproduction, or distribution of these materials, whether in part or in whole, will result in legal consequences and financial penalties.
 
-### 5. Embedded Content:
-   - Any embedded content sourced from third parties, such as APIs, libraries, frameworks, or external services, remains the property of their respective owners and is subject to their terms of use.
+3. **Text Content**:
 
-Any unauthorized use of the protected content in this project is strictly prohibited and may result in legal action.
+   All original text content, including documentation, comments, README files, user manuals, guides, and other written materials, is the intellectual property of Mohammed. Unauthorized copying, reproduction, or modification of text content is strictly prohibited and may lead to legal action for copyright infringement.
 
-Please respect the copyright of this project and its owner.
+4. **Design Elements**:
 
-## Disclaimer
+   The unique design elements of the project, including layout, color scheme, typography, graphical assets, logos, and branding materials, are protected by copyright and may not be replicated or imitated in any form without explicit authorization. Any attempt to duplicate or mimic these design elements will result in legal repercussions and punitive damages.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+5. **Embedded Content**:
+
+   Any embedded content sourced from third parties, such as APIs, libraries, frameworks, or external services, remains the property of their respective owners and is subject to their terms of use. Mohammed does not claim ownership of embedded content but ensures compliance with applicable usage terms and licenses.
+
+### Measures to Prevent Unauthorized Use
+
+1. **Obfuscation**:
+
+   Source code may be obfuscated or encrypted to deter reverse engineering attempts. Mohammed employs sophisticated obfuscation techniques to make unauthorized extraction or modification of the source code exceedingly difficult.
+
+2. **Access Control**:
+
+   Access to the project's source code repository is restricted to authorized individuals only. Unauthorized access attempts will be detected and blocked, and appropriate legal action will be taken against perpetrators.
+
+3. **Digital Rights Management (DRM)**:
+
+   Digital rights management technologies may be implemented to protect multimedia files from unauthorized copying or redistribution. Mohammed utilizes robust DRM solutions to safeguard multimedia content from piracy and unauthorized usage.
+
+4. **Watermarking**:
+
+   Visual and audio content may be watermarked to deter unauthorized usage. Mohammed embeds subtle watermarks within multimedia files to trace the origin of unauthorized copies and identify infringing parties.
+
+Any attempt to circumvent these protective measures or violate the terms of the Mohammed License will be met with severe consequences, including but not limited to legal action, financial penalties, and reputational damage.
+
+### Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL MOHAMMED OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR DISTRIBUTION OF THE SOFTWARE. YOU ASSUME ALL RISKS ASSOCIATED WITH THE USE OF THIS SOFTWARE.
