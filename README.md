@@ -4,6 +4,8 @@
 
 Unauthorized copying, redistribution, forking, or cloning of the content from this project and other associated materials is strictly prohibited and will not be tolerated.
 
+![image](https://github.com/tech-moh-logy/MOHAMMED-License/assets/132733865/af2cf24e-1e0d-4c1e-9f93-ebf31b5683c5)
+
 ### Protected Content
 
 1. **Source Code**:
