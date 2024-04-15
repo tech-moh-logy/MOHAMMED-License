@@ -1,12 +1,19 @@
-## Mohammed License
+<div align="center">
+  <h1>MOHAMMED's License</h1>
+  Official license of Mohammed Tiger. 
+</div>
 
-© 2024 Mohammed. All rights reserved.
+<br>
 
-Unauthorized copying, redistribution, forking, or cloning of the content from this project and other associated materials is strictly prohibited and will not be tolerated.
+<sub> © 2024 Mohammed. All rights reserved. </sub>
 
-![image](https://github.com/tech-moh-logy/MOHAMMED-License/assets/132733865/af2cf24e-1e0d-4c1e-9f93-ebf31b5683c5)
+<sub> Unauthorized copying, redistribution, forking, or cloning of the content from this project and other associated materials is strictly prohibited and will not be tolerated. Everything is prohibited unless mentioned otherwise. </sub>
 
-### Protected Content
+<br>
+
+![Licence](https://github.com/tech-moh-logy/MOHAMMED-License/assets/132733865/af2cf24e-1e0d-4c1e-9f93-ebf31b5683c5)
+
+#### Protected Content
 
 1. **Source Code**:
 
@@ -28,7 +35,7 @@ Unauthorized copying, redistribution, forking, or cloning of the content from th
 
    Any embedded content sourced from third parties, such as APIs, libraries, frameworks, or external services, remains the property of their respective owners and is subject to their terms of use. Mohammed does not claim ownership of embedded content but ensures compliance with applicable usage terms and licenses.
 
-### Measures to Prevent Unauthorized Use
+#### Measures to Prevent Unauthorized Use
 
 1. **Obfuscation**:
 
@@ -46,8 +53,10 @@ Unauthorized copying, redistribution, forking, or cloning of the content from th
 
    Visual and audio content may be watermarked to deter unauthorized usage. Mohammed embeds subtle watermarks within multimedia files to trace the origin of unauthorized copies and identify infringing parties.
 
-Any attempt to circumvent these protective measures or violate the terms of the Mohammed License will be met with severe consequences, including but not limited to legal action, financial penalties, and reputational damage.
+Any attempt to circumvent these protective measures or violate the terms of the MOHAMMED's License will be met with severe consequences, including but not limited to legal action, financial penalties, and reputational damage.
 
-### Disclaimer
+#### Disclaimer
 
-THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL MOHAMMED OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR DISTRIBUTION OF THE SOFTWARE. YOU ASSUME ALL RISKS ASSOCIATED WITH THE USE OF THIS SOFTWARE.
+<sub>THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL MOHAMMED OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR DISTRIBUTION OF THE SOFTWARE. YOU ASSUME ALL RISKS ASSOCIATED WITH THE USE OF THIS SOFTWARE.</sub>
+
+<sub>Legal Notice: Any unauthorized use, disclosure, distribution, downloading, forwarding, or printing of this document or its code without permission may constitute a violation of intellectual property rights and confidentiality agreements. Legal actions, including but not limited to civil litigation, may be pursued against individuals or entities found in violation of these terms. By accessing, viewing, or using this document, you acknowledge and agree to abide by these restrictions.</sub>
