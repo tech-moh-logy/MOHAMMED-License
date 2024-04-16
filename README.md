@@ -1,6 +1,6 @@
 <div align="center">
   <h1>MOHAMMED's License</h1>
-  Official license of Mohammed Tiger. 
+  Official license of Mohammed (TIGER). 
 </div>
 
 <br>
